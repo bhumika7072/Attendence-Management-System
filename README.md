@@ -1,4 +1,4 @@
-# Attendence-Management-System
+# Attendence-Management-System in c
 
 Attendance Management System in C
 This is a basic Attendance Management System built using the C programming language. It allows an educational institution or organization to manage attendance records for students or employees.The Attendance Management System in C is a console-based application designed to manage and store attendance records for students, employees, or any group of individuals. It provides functionalities to add, view, update, and delete attendance records, ensuring that attendance data is stored .
